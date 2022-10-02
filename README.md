@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Sound Datasets exploration and audio similarity.
 - 🌱 I’m currently learning Webaudio and JS.
 - 👯 I’m looking to collaborate on AI for good, ML Audio, and Embedded audio projects.
-- 📫 How to reach me: jose091[at]ccrma.stanford.edu
+- 📫 How to reach me: jose091 [at] ccrma.stanford.edu
 
 
 <!--
