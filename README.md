@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Sound Datasets exploration and viz.
+- 🌱 I’m currently learning Webaudio, and JS.
+- 👯 I’m looking to collaborate on AI for good, Audio ML projects, Embedded audio processing.
+- 📫 How to reach me: jose091[at]ccrma.stanford.edu
+
 <!--
 **wetdog/wetdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
